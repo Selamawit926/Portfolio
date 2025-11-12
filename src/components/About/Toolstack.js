@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiVisualstudiocode,
+  // SiVisualStudioCode,
   SiPostman,
   SiSlack,
   SiVercel,
@@ -14,9 +14,9 @@ function Toolstack() {
       {/* <Col xs={4} md={2} className="tech-icons">
         <SiMacos />
       </Col> */}
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
-      </Col>
+      {/* <Col xs={4} md={2} className="tech-icons">
+        <SiVisualStudioCode />
+      </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
       </Col>
