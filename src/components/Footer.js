@@ -14,7 +14,14 @@ function Footer() {
           {/* <h3>Designed and Developed by Soumyajit Behera</h3> */}
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SE</h3>
+          <h3>© {year} Selamawit Elias Getahun </h3>
+          <p style={{ marginBottom: "0.2rem", fontSize: "0.9em", color: "white" }}>
+            Independent Software Developer & Contractor
+          </p>
+          <p style={{ fontSize: "0.85em", color: "white" }}>
+            Email: selamawitelias0@gmail.com <br />
+            Phone: +251924858553
+          </p>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
