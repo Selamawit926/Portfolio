@@ -16,7 +16,7 @@ function Footer() {
         <Col md="4" className="footer-copywright">
           <h3>© {year} Selamawit Elias Getahun </h3>
           <p style={{ marginBottom: "0.2rem", fontSize: "0.9em", color: "white" }}>
-            Independent Software Developer & Contractor
+            Software Developer & Contractor
           </p>
           <p style={{ fontSize: "0.85em", color: "white" }}>
             Email: selamawitelias0@gmail.com <br />
